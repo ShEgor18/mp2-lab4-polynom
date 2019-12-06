@@ -1,0 +1,10 @@
+^C:\USERS\STARW\SOURCE\REPOS\MP2-LAB4-POLYNOM\SAMPLES\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SC:/Users/starw/source/repos/mp2-lab4-polynom -BC:/Users/starw/source/repos/mp2-lab4-polynom/sln/vc19 --check-stamp-file C:/Users/starw/source/repos/mp2-lab4-polynom/sln/vc19/samples/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
