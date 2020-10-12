@@ -1,4 +1,0 @@
-C:/Users/starw/source/repos/mp2-lab4-polynom/sln/vc19/CMakeFiles/ALL_BUILD.dir
-C:/Users/starw/source/repos/mp2-lab4-polynom/sln/vc19/CMakeFiles/ZERO_CHECK.dir
-C:/Users/starw/source/repos/mp2-lab4-polynom/sln/vc19/src/CMakeFiles/polynom.dir
-C:/Users/starw/source/repos/mp2-lab4-polynom/sln/vc19/samples/CMakeFiles/sample_polynom.dir
